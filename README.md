@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Sezer İltekin 👋🏼
-Native iOS Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷
+I'm Sezer İltekin,<br/>
+iOS Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷
 
 I love to learn, code and produce creative content 💡 This has been my lifestyle since childhood and I will continue to learn and improve myself 🧠 throughout my life.
 
