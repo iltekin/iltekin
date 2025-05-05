@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sezeriltekin" target="blank"><img src="https://img.shields.io/twitter/follow/sezeriltekin?logo=twitter&style=for-the-badge" alt="sezeriltekin" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [iltekin.com/portfolio](iltekin.com/portfolio)
-
-- 📝 I regularly write articles on [medium.com/@sezeriltekin](medium.com/@sezeriltekin)
-
 - 📫 How to reach me **sezer@iltekin.com**
 
 <h3 align="left">Connect with me:</h3>
