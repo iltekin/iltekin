@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sezer Iltekin</h1>
-<h3 align="center">iOS Developer from Istanbul</h3>
+hi 👋, i'm sezer iltekin, iOS developer from istanbul
 
 <p align="left"> <a href="https://x.com/sezeriltekin" target="blank">my x account</a> </p>
 
-- 📫 Contact me **sezer@iltekin.com**
+sontact me **sezer@iltekin.com**
